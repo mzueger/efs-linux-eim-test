@@ -1,0 +1,10 @@
+*.kate-swp
+.directory
+*.mod.c
+*.o
+*.o.cmd
+*.ko
+*.ko.cmd
+Module.symvers
+modules.order
+.tmp_versions
